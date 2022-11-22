@@ -1,5 +1,3 @@
-# CTI-Fundamentals
-
 # Definição
 É a coleta, processamento e análise de dados, com objetivo de entender motivo, compotamentos e alvos dos adversários.
 ## Ciclo de Threat 
@@ -81,10 +79,62 @@ Utilizado por empresas de sec e agências de inteligência de 3 letras, mas tamb
 3. Informações públicas de fontes gosvernamnetais
 4. Eventos, conferências, trabalhos e até bibliotecas.
 
+## Ferramentas
+
 https://osintframework.com/
 
 https://github.com/jivoi/awesome-osint
 
+https://www.youtube.com/watch?v=3fHc2ywVXzI
+
+https://br.linkedin.com/posts/alexfeleol_palestra-t%C3%A9cnica-cyber-threat-intelligence-activity-6988861474110640129-ca9S?trk=public_profile_like_view
+
+https://www.crowdstrike.com/cybersecurity-101/threat-intelligence/
+
+https://docs.google.com/presentation/d/14qwTU0SFqPXRkMznwsoUG8GGAcEQjxcGTk1g_mgtSTk/edit#slide=id.g14c8168e8bd_13_297
+
+
+
+É importante seguir as fases do OSINT para não se perder na pesquisa e acabar perdendo tempo.
+
+É preciso ter discenimento para entender que determinados caminhos tomados podem não resultar no esperado.
+
+Por isso é importante seguir um processo analítico que ajuda a melhorar imperfeições no processo.
+
+Todas as atividades de OSINT são Legais, contudo ressalta-se o que voce vai fazer com as informações que você obteve.
+
+O conselho é determinar um código de conduta para orientar os profissionais tanto para capturar quanto para manuseio desses dados antes de utilizar ou definir estrátegias para OSINT.
+
+## Adversários e ameaças
+
+### Grupos:
+
+1. Lazarus - WannaCry
+2. Equation (Shadow Brokers) - Zero day, spyware
+3. Fancy Bear - Spear-phishing
+4. Lapsus
+5. Black Basta
+6. Conti
+7. Revil 
+
+## Área CTI
+
+### Strategic
+
+1. Feeds de notícias
+2. Ferramentas de RSS
+3. Fontes Públicas
+4. Grupos de Discussão 
+5. Redes Sociais
+
+### Operacional
+
+1. Fóruns underground
+2. Dark markets
+3. Interações com TA
+4. Redes sociais
+
+TTP (Táticas, Técnicas e Procedimentos) - Entender as ameaças
 
 
 ## Deep Web Links
@@ -128,6 +178,8 @@ Dark Net Mail Exchange - http://hxuzjtocnzvv5g2rtg2bhwkcbupmk7rclb6lly3fo4tvqkk5
 Bitcoin Mining - http://quantumzij3ycjw47hfxzbgd3j6m6xx2rcsld4jyolmnmfu7vbmuqnad.onion/
 
 
+
+
 osint OR opsec lang:pt -militar
 
 from:tempest_sec
@@ -152,5 +204,3 @@ Existem mais operadores no Twitter Developer
 https://cheatsheet.haax.fr/open-source-intelligence-osint/dorks/twitter_dorks/
 https://twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion/
 https://twitter.com/sprp77/status/1218178961546661888?s=20&t=1FyI2Y9WmoHNvkBi58oudg
-
-
