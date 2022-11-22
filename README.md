@@ -126,3 +126,31 @@ Proton Mail - https://account.proton.me/login
 Dark Net Mail Exchange - http://hxuzjtocnzvv5g2rtg2bhwkcbupmk7rclb6lly3fo4tvqkk5oyrv3nid.onion/
 
 Bitcoin Mining - http://quantumzij3ycjw47hfxzbgd3j6m6xx2rcsld4jyolmnmfu7vbmuqnad.onion/
+
+
+osint OR opsec lang:pt -militar
+
+from:tempest_sec
+
+osint filter:media
+
+Twiter 
+or 
+and 
+to:nomedeusuario
+from:nomedeusuario
+filter:media
+osint url:onion
+osint filter:media -rt
+osint url:onion -from:techniquesOsint
+qatar since:2022-11-20
+ransomware victim since:2022-11-19 -rt -filter:links
+https://tweetdeck.twitter.com/
+Existem mais operadores no Twitter Developer
+
+
+https://cheatsheet.haax.fr/open-source-intelligence-osint/dorks/twitter_dorks/
+https://twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion/
+https://twitter.com/sprp77/status/1218178961546661888?s=20&t=1FyI2Y9WmoHNvkBi58oudg
+
+
